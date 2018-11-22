@@ -1,0 +1,17 @@
+body { background-color: #FFFFFF;
+			background-image: url("javascript/image/background.png");
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-position: center;
+			background-size:cover;
+			height: 100%;
+		   font-family: Comic Sans MS, Helvetica, sans-serif;
+}
+
+		
+#wrapper { 	margin: auto;
+					margin-top: 45px;
+					width: 50%;
+					margin-right: 485px;
+
+}
